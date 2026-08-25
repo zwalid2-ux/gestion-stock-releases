@@ -1,11 +1,11 @@
-# GestionStock - Téléchargements officiels
+# STOKY Pro - Téléchargements officiels
 
-Ce dépôt public contient uniquement les installateurs officiels de GestionStock. Le code source et les données des utilisateurs ne sont pas publiés ici.
+Ce dépôt public contient uniquement les installateurs officiels de **STOKY Pro**. Le code source et les données des utilisateurs ne sont pas publiés ici.
 
 ## Télécharger la dernière version
 
-[**Télécharger GestionStock pour Windows**](https://github.com/zwalid2-ux/gestion-stock-releases/releases/latest/download/GestionStock-Setup-0.3.1.exe)
+[**Télécharger STOKY Pro pour Windows**](https://github.com/zwalid2-ux/gestion-stock-releases/releases/latest/download/GestionStock-Setup-0.3.2.exe)
 
 Consultez également [toutes les versions publiées](https://github.com/zwalid2-ux/gestion-stock-releases/releases).
 
-À partir de la version 0.3.1, le bouton **Mise à jour** de l'application vérifie et installe les nouvelles versions depuis ce dépôt public, sans jeton GitHub et sans configuration.
+Le bouton **Mise à jour** de STOKY Pro vérifie et installe les nouvelles versions depuis ce dépôt public, sans jeton GitHub et sans configuration.
